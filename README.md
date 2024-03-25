@@ -1,2 +1,2 @@
 # Mpesa_Daraja-API
-STK push app
+STK push app 
